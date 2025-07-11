@@ -20,7 +20,7 @@ It displays the detected fruit name on the video in real-time.
 
 ## Technologies Used
 
-- Python 3  
+- Python 3.10 using vs-code on Anaconda IDE 
 - OpenCV  
 - NumPy  
 
